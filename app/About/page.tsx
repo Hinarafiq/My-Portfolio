@@ -11,7 +11,7 @@ export default function About (){
              particularly in the world of GenAI. With a commitment to continuous learning and growth, <br />
              I thrive in dynamic environments where innovation and collaboration are encourged. <br />
              Eager to leverage my skills and experiences to contribute effectively to meaningful projects <br />
-              and drive positive change in the industry."</p>
+             and drive positive change in the industry.</p>
         </div> 
       </div>
     )
