@@ -1,6 +1,6 @@
 export default function Skills(){
     return(
-        <div className="bg-black text-white w-full h-96">
+        <div className="bg-black text-white w-full h-full">
             <div className="flex justify-center items-center">
                 <h1 className="font-semibold text-2xl mt-10"><u>Skills</u></h1>
             </div>
@@ -14,7 +14,7 @@ export default function Skills(){
                     <li>Next.js</li>
                 </ul>
             </div>
-
+            <br />
             <div>
                 <ul> <h1 className="font-semibold">Soft Skills</h1> <br />
                     <li>Communication</li>
