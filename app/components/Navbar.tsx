@@ -7,7 +7,7 @@ export default function Navbar(){
           <h1 className="text-white text-xl font-bold h-2">My Portfolio</h1>
          </div>
           <hr />
-         <div id="nav-list" className="text-white flex justify-between items-center font-semibold tracking-wider ml-20  mt-4 w-4/5 pb-5">
+         <div id="nav-list" className="text-white flex justify-between items-center font-semibold tracking-wider ml-12 mt-4 w-4/5 pb-5">
             <Link href="/">
                <div className="hover:underline">Home
                 </div></Link>
