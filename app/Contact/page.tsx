@@ -3,12 +3,12 @@ export default function Contact (){
     return (
         <div className="bg-black text-white w-full h-96 ">
                 <div className="flex justify-center items-center">
-                   <h1 className="font-semibold text-2xl mt-10"><u>Contact me</u></h1> 
+                   <h1 className="font-semibold md:text-2xl mt-10"><u>Contact me</u></h1> 
                    <br />
                 </div>
 
                 <div className="flex justify-center items-center">   
-                  <h1 className="font-semibold text-2xl mt-3"><u>On the following social media</u></h1>
+                  <h1 className="font-semibold md:text-2xl mt-3"><u>On the following social media</u></h1>
                 </div>
             
             <div className="mt-8">
