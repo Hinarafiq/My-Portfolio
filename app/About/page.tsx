@@ -5,7 +5,7 @@ export default function About (){
          <h1 className="font-semibold text-2xl mt-10"><u>About Me</u></h1> <br />
         </div> 
 
-        <div className="flex justify-center items-center font-medium mt-12">
+        <div className="flex justify-center items-center font-light md:font-medium p-7 mt-12">
           <p>I m the undergraduate student after dedicated and results-driven professional with a proven track <br />
             record in the field of commerce. Passionate about exploring and embracing new technologies,<br />
              particularly in the world of GenAI. With a commitment to continuous learning and growth, <br />
