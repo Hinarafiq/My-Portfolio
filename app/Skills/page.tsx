@@ -4,7 +4,7 @@ export default function Skills(){
             <div className="flex justify-center items-center">
                 <h1 className="font-semibold text-2xl mt-10"><u>Skills</u></h1>
             </div>
-         <div className="flex flex-col md-flex-row justify-evenly pl-20 mt-10">
+         <div className="flex flex-col md:flex-row justify-evenly pl-20 mt-10">
             <div>
                 <ul> <h1 className="font-semibold">Programming Languages</h1> <br />
                     <li>HTML</li>
